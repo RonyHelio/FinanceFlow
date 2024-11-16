@@ -8,7 +8,7 @@ public class HourContract {
 	private Integer hours;
 	
 	public double totalValue() { //calcula o total por contrato
-		return 0;
+		return valuePerHour*hours;
 	}
 	
 	public HourContract() {

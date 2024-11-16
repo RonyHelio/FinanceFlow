@@ -3,8 +3,7 @@ package Entiteis;
 public class Departament {
 	private String name;
 	
-	private Departament () {
-	}
+	
 
 	public String getName() {
 		return name;
