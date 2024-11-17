@@ -7,10 +7,10 @@ import java.util.List;
 import EntiteisEnum.WorkerLevel;
 
 public class Worker {
+	
 	private String name;
 	private WorkerLevel level;
 	private double baseSalary;
-	
 	private Departament departament; 
 	
 	List<HourContract> Contract = new ArrayList<>();

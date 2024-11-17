@@ -1,7 +1,7 @@
 package EntiteisEnum;
 
 public enum WorkerLevel {
-	Junior,
-	Mid_Level,
-	Senior
+	JUNIOR,
+	MID_LEVEL,
+	SENIOR
 }
